@@ -1,39 +1,53 @@
 {
   "version": 2.0,
   "questions": [
+    
     {
-      "question": "This is a Sample Question 1?",
+      "question": "1. ________ technique is using to study current - spike frequency relationship in order to understand membrane properties. ",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Voltage clamp",
+        "b": "Current clamp",
+        "c": "Both Voltage clamp and Current clamp",
+        "d": "None of the above"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+      
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+  
+
+
+    {
+      "question": "2. Latency - current graph plots ______ on x-axis and _______ on y-axis. ",
+      "answers": {
+        "a": "current and first spike latency",
+        "b": "first spike latency and conductance",
+        "c": " first spike latency and current",
+        "d": "current and conductance"
+       
       },
+      
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
+
+
+
     {
-      "question": "This is a Sample Question 2?",
+      "question": "3. When the amplitude of injected current is increases as response from the cell, a) the first spike latency increases and  b) the number of spikes increases.",
+
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "'a' is false and 'b' is true",
+        "b": "'a' and 'b' are true",
+        "c": "'a' and 'b' are false",
+        "d": " both are false"
       },
-      "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
-      "correctAnswer": "c",
+      
+      "correctAnswer": "a",
       "difficulty": "beginner"
     }
+
+
+
   ]
 }
