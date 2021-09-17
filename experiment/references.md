@@ -21,11 +21,11 @@
 **Books**
 
 
-    1. BertilHille .Ionic channels of excitable membrane,2nd Ed. Sinauer Associates Inc, Sunderland, Massachusetts,1992.
+ 1. BertilHille .Ionic channels of excitable membrane,2nd Ed. Sinauer Associates Inc, Sunderland, Massachusetts,1992.
     
-    2. Kandel,ER.,J.H.Schwartz and T.M.Jessell.Principles of neural science,4thEd. McGraw-Hill Companies, Inc , New York, 2000.
+ 2. Kandel,ER.,J.H.Schwartz and T.M.Jessell.Principles of neural science,4thEd. McGraw-Hill Companies, Inc , New York, 2000.
     
-    3. ArelesMolleman .Patch Clamping: An Introductory Guide to Patch Clamp Electrophysiology,J. Wiley, 2002.
+ 3. ArelesMolleman .Patch Clamping: An Introductory Guide to Patch Clamp Electrophysiology,J. Wiley, 2002.
     
 &nbsp;
 
@@ -33,10 +33,10 @@
    **Webilography**
    
    
-    Electrophysiology  - http://www.acnp.org/g4/GN401000005/CH005.html
+Electrophysiology  - http://www.acnp.org/g4/GN401000005/CH005.html
     
-    Current clamp technique - http://vlab.amrita.edu/?sub=3&brch=43&sim=132&cnt=1379
+Current clamp technique - http://vlab.amrita.edu/?sub=3&brch=43&sim=132&cnt=1379
     
-    Action Potentials from Squid feat. Alan Hodgkin  -http://www.youtube.com/watch?v=k48jXzFGMc8
+Action Potentials from Squid feat. Alan Hodgkin  -http://www.youtube.com/watch?v=k48jXzFGMc8
      
 
