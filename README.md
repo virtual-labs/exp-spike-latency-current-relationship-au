@@ -4,11 +4,11 @@
 <b>Discipline | <b> Biotechnology and Biomedical engineering
 :--|:--|
 <b> Lab | <b> Neuron Simulation Virtual Lab 
-<b> Experiment|     <b> Modeling resting potentials in Neurons
+<b> Experiment|     <b> Understanding first spike latency - current relationship
 
 ### About the Experiment 
 
-This experiment deals with the basic principles behind resting potential, how resting ion channels maintain the resting potential and mathematical models used for studying this mechanism.
+Using current clamp, the delay to intiation to first spike can be calculated. In this experiment, we use that as a measure to understand neural behavior.
 
 <b>Name of Developer | <b> Dr. Shyam Diwakar
 :--|:--|
